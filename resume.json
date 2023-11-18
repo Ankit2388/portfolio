@@ -1,0 +1,217 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ankit Prajapati",
+    "label": "React & React Native Dveloper",
+    "email": "ankitnprajapati625@gmail.com",
+    "phone": "+91 96249 64204",
+    "url": "https://devang-prajapati.github.io/resume/",
+    "summary": "Experienced Programming Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Node.js, Angular, React, MongoDB, Elasticsearch, serverless microservices & microfrontends. Strong engineering professional with a Master of Computer Applications - MCA focused in Study from GLS Institute of Computer Technology (MCA Program) (SFI)-Ahmedabad 509.",
+    "location": {
+      "address": "48 Snehkunj Society, T.B. Road",
+      "postalCode": "384002",
+      "city": "Mehsana",
+      "countryCode": "IN",
+      "region": "Gujarat"
+    },
+    "profiles": [
+      {
+        "url": "www.linkedin.com/in/ankit-prajapati-bb5797157/",
+        "network": "LinkedIn",
+        "username": "Ankit Prajapati"
+      },
+      {
+        "url": "https://github.com/Ankit2388",
+        "network": "Github",
+        "username": "Ankit Prajapati"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Third Rock Techkno",
+      "location": "Ahmedabad, IN",
+      "description": "A leading IT services company providing robust software development solutions to startups and enterprises globally",
+      "position": "Programmer Analyst",
+      "url": "https://www.thirdrocktechkno.com/",
+      "startDate": "2019-05-18",
+      "endDate": "",
+      "summary": "Worked on backend as well as frontend with some of the cloud services of AWS and firebase,",
+      "highlights": [
+        "Backend - Express, Nest.js ( serverless )",
+        "Frontend - Angular & React ( Integrated with NX ), Next.js ( serverless )",
+        "AWS - EC2, S3, Lambda with layers , SES, SQS, API Gateway, Batch",
+        "GCP - Firebase & Firestore"
+      ]
+    },
+    {
+      "name": "Third Rock Techkno",
+      "location": "Ahmedabad, IN",
+      "description": "A leading IT services company providing robust software development solutions to startups and enterprises globally",
+      "position": "Internship Trainee",
+      "url": "https://www.thirdrocktechkno.com/",
+      "startDate": "2018-11-18",
+      "endDate": "2019-05-18",
+      "highlights": [
+        "Learned JavaScript, TypeScript and Node.js with MongoDB, Elasticsearch, MySQL and other Restful API & backend related things."
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Ganpat University",
+      "url": "https://www.ganpatuniversity.ac.in/",
+      "area": "Master Of Computer Applications",
+      "studyType": "Master",
+      "startDate": "2017-06-01",
+      "endDate": "2019-05-31",
+      "score": "7.96",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "HNGU - Hemchandracharya North Gujarat University",
+      "url": "https://www.ngu.ac.in/",
+      "area": "Bechelor Of Computer Applications",
+      "studyType": "Bachelor",
+      "startDate": "2014-06-01",
+      "endDate": "2017-05-31",
+      "score": "6.83",
+      "courses": []
+    }
+    
+  ],
+  "awards": [
+    {
+      "title": "Employee of the month",
+      "date": "2021",
+      "awarder": "Third Rock Techkno",
+      "summary": ""
+    },
+    {
+      "title": "Rising Star",
+      "date": "2019-12",
+      "awarder": "Third Rock Techkno",
+      "summary": ""
+    },
+    {
+      "title": "Silent Techy",
+      "date": "2018-12",
+      "awarder": "GLS Institute of Computer Technology",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Node.js",
+        "React js",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Mobile Applications Development",
+      "level": "Master",
+      "keywords": [
+        "React Native"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "MongoDB",      
+        "MySQL"
+      ]
+    },
+    {
+      "name": "DevOps & CICD",
+      "level": "Intermediate",
+      "keywords": [
+        "Github Pipeline",
+        "Jenkins",
+        "Docker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "NFTs",
+      "keywords": [
+        "Blockchain development"
+      ]
+    }
+  ],
+  
+  "projects": [
+    {
+      "name": "Confidential",
+      "description": "A Digital collection library ( similar to New York Public Library's collections ) with a large amount of books. It follows IIIF - International Image Interoperability Framework for API standards ( image API, Annotation API, manifest etc.) ",
+      "highlights": [
+        "My first role in the project was backend the developer then later i've started working on frontend ( angular and react both ), currently i'm leading the project team.",
+        "On the backend, I've worked on serverless, microservices architecture.",
+        "On the frontend, I've created microfrontends with NX to render one frontend into another.",
+        "Worked on some of the AWS services like EC2, lambda ( with layers ), SQS, SES, Batch etc.",
+        "Setup cantaloupe image server to render JPEG2000 images with Grok and kakadu image compression tools",
+        "Deployed Apps with the help of serverless, claudia and EC2 with docker",
+        "Created Restful search & filter APIs with the help of node.js ( express ) and elasticsearch as searchDB.",
+        "Worked on OCR with tesseract to fetch text from book content for search purpose.",
+        "Created custom CMS - Rendered dynamic components with angular and NX.",
+        "Customised IIIF Manifest Editor - Digital Bodleian & IIIF Manifest Viewer - Mirador."
+      ],
+      "keywords": [
+        "Web app",
+        "JavaScript",
+        "TypeScript",
+        "IIIF Standards",
+        "NX",
+        "Angular",
+        "Node.js",
+        "React",
+        "Mirador",
+        "Bodleian",
+        "Docker",
+        "Jenkins",
+        "Tesseract",
+        "Elasticsearch",
+        "MongoDB",
+        "AWS",
+        "D3.js",
+        "Leaflet with Open Street Map"
+      ],
+      "startDate": "2019-03-15",
+      "roles": [
+        "Team Lead",
+        "Designer",
+        "Developer"
+      ],
+      "entity": "Educational Domain",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
