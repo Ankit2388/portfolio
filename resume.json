@@ -29,31 +29,17 @@
   },
   "work": [
     {
-      "name": "Third Rock Techkno",
+      "name": "Epistic Technologies PVT LTD",
       "location": "Ahmedabad, IN",
-      "description": "A leading IT services company providing robust software development solutions to startups and enterprises globally",
-      "position": "Programmer Analyst",
-      "url": "https://www.thirdrocktechkno.com/",
-      "startDate": "2019-05-18",
-      "endDate": "",
-      "summary": "Worked on backend as well as frontend with some of the cloud services of AWS and firebase,",
+      "description": "We are specialize in creating custom software solutions that are tailored to meet the unique needs of each of our clients.",
+      "position": "Software Developer",
+      "url": "https://www.epistic.net/",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-31",
+      "summary": "Worked on frontend as well as backend technologies",
       "highlights": [
-        "Backend - Express, Nest.js ( serverless )",
-        "Frontend - Angular & React ( Integrated with NX ), Next.js ( serverless )",
-        "AWS - EC2, S3, Lambda with layers , SES, SQS, API Gateway, Batch",
-        "GCP - Firebase & Firestore"
-      ]
-    },
-    {
-      "name": "Third Rock Techkno",
-      "location": "Ahmedabad, IN",
-      "description": "A leading IT services company providing robust software development solutions to startups and enterprises globally",
-      "position": "Internship Trainee",
-      "url": "https://www.thirdrocktechkno.com/",
-      "startDate": "2018-11-18",
-      "endDate": "2019-05-18",
-      "highlights": [
-        "Learned JavaScript, TypeScript and Node.js with MongoDB, Elasticsearch, MySQL and other Restful API & backend related things."
+        "Frontend - React js",
+        "Backend - Express, Nest.js"     
       ]
     }
   ],
@@ -85,23 +71,12 @@
   ],
   "awards": [
     {
-      "title": "Employee of the month",
-      "date": "2021",
-      "awarder": "Third Rock Techkno",
-      "summary": ""
-    },
-    {
-      "title": "Rising Star",
-      "date": "2019-12",
-      "awarder": "Third Rock Techkno",
-      "summary": ""
-    },
-    {
-      "title": "Silent Techy",
-      "date": "2018-12",
-      "awarder": "GLS Institute of Computer Technology",
+      "title": "Best Punctual Mind",
+      "date": "2022",
+      "awarder": "MindInventory",
       "summary": ""
     }
+    
   ],
   "publications": [],
   "skills": [
