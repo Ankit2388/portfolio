@@ -29,6 +29,32 @@
   },
   "work": [
     {
+      "name": "mindinventory",
+      "location": "Mehsana, IN",
+      "description": "We are provide IT services for grow business for sales and online, web app, app.",
+      "position": "Software Developer",
+      "url": "https://briotechno.com/",
+      "startDate": "2020-02-01",
+      "endDate": "2021-03-10",
+      "summary": "Worked on cross platform mobile application development technologie",
+      "highlights": [
+        "React Native"
+      ]
+    },
+    {
+      "name": "Briotechno",
+      "location": "Mehsana, IN",
+      "description": "We are provide IT services for grow business for sales and online, web app, app.",
+      "position": "Software Developer",
+      "url": "https://briotechno.com/",
+      "startDate": "2020-02-01",
+      "endDate": "2021-03-10",
+      "summary": "Worked on cross platform mobile application development technologie",
+      "highlights": [
+        "React Native"
+      ]
+    },
+    {
       "name": "Epistic Technologies PVT LTD",
       "location": "Ahmedabad, IN",
       "description": "We are specialize in creating custom software solutions that are tailored to meet the unique needs of each of our clients.",
@@ -39,12 +65,11 @@
       "summary": "Worked on frontend as well as backend technologies",
       "highlights": [
         "Frontend - React js",
-        "Backend - Express, Nest.js"     
+        "Backend - Express, Nest.js"
       ]
     }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Ganpat University",
@@ -54,8 +79,7 @@
       "startDate": "2017-06-01",
       "endDate": "2019-05-31",
       "score": "7.96",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "HNGU - Hemchandracharya North Gujarat University",
@@ -67,7 +91,6 @@
       "score": "6.83",
       "courses": []
     }
-    
   ],
   "awards": [
     {
@@ -76,7 +99,6 @@
       "awarder": "MindInventory",
       "summary": ""
     }
-    
   ],
   "publications": [],
   "skills": [
@@ -101,7 +123,7 @@
       "name": "Databases",
       "level": "Intermediate",
       "keywords": [
-        "MongoDB",      
+        "MongoDB",
         "MySQL"
       ]
     },
@@ -109,9 +131,7 @@
       "name": "DevOps & CICD",
       "level": "Intermediate",
       "keywords": [
-        "Github Pipeline",
-        "Jenkins",
-        "Docker"
+        "Github Pipeline"   
       ]
     }
   ],
@@ -137,7 +157,6 @@
       ]
     }
   ],
-  
   "projects": [
     {
       "name": "Confidential",
