@@ -131,7 +131,7 @@
       "name": "DevOps & CICD",
       "level": "Intermediate",
       "keywords": [
-        "Github Pipeline"   
+        "Github Pipeline"
       ]
     }
   ],
@@ -147,14 +147,6 @@
     {
       "language": "Gujarati",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "NFTs",
-      "keywords": [
-        "Blockchain development"
-      ]
     }
   ],
   "projects": [
@@ -200,6 +192,62 @@
         "Developer"
       ],
       "entity": "Educational Domain",
+      "type": "application"
+    },
+    {
+      "name": "Arcade Live",
+      "description": "Arcade Live is a game mobile and web application(IOS/Android/WebApp) played online on real Arcade Game machines controlled remotely through video streaming via mobile and web apps. Users can buy credits, and choose an Arcade Game machine to start playing. Each machine required different amount of credits to play the game. User can choose from between two option to play games for as a reward: Play for Tickets & Play for Games.",
+      "keywords": [
+        "Mobile App",
+        "Web App",
+        "React Native",
+        "Expo",
+        "React Native Web",
+        "i18n-js",
+        "Formik",
+        "Zustand",
+        "Yup",
+        "React Native Webview"
+      ],
+      "roles": [
+        "Lead Mobile Application Developer",
+        "Lead Web Application Developer"
+      ],
+      "entity": "Entertainment Domain",
+      "type": "application"
+    },
+    {
+      "name": "Passio Nutrition-AI",
+      "description": "Passio Nutrition-AI is an industry leading food recognition and nutrition tracking SDK designed to enable app developers to effortlessly add real-time on-device food recognition and typing-free food tracking functionality into their mobile applications.",
+      "keywords": [
+        "Mobile App",
+        "React native",
+        "Typescript",
+        "Unit-test",
+        "useAsyncResource"
+      ],
+      "roles": [
+        "Mobile Application Developer"
+      ],
+      "entity": "Health Domain",
+      "type": "application"
+    },
+    {
+      "name": "Become a Saver",
+      "description": "Become a Saver is a simplified budgeting app that connects to your existing checking account. Use Saver's complete money management system to beat debt and build savings.Saver is not just another budgeting app; it's a complete money management system designed to empower you to make the most of your hard-earned money.",
+      "keywords": [
+        "Mobile App",
+        "React native",
+        "Typescript",
+        "Lottie Animation",
+        "Plaid",
+        "svg Charts",
+        "react native purchases"
+      ],
+      "roles": [
+        "Lead Mobile Application Developer"
+      ],
+      "entity": "Finance Domain",
       "type": "application"
     }
   ],
