@@ -6,7 +6,7 @@
     "email": "ankitnprajapati625@gmail.com",
     "phone": "+91 96249 64204",
     "url": "https://devang-prajapati.github.io/resume/",
-    "summary": "Experienced Programming Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Node.js, Angular, React, MongoDB, Elasticsearch, serverless microservices & microfrontends. Strong engineering professional with a Master of Computer Applications - MCA focused in Study from GLS Institute of Computer Technology (MCA Program) (SFI)-Ahmedabad 509.",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in React Native, React js. Strong engineering professional with a Master of Computer Applications - MCA focused in Study from  AMPICS (Achaya Motibhai Patel Intitute Of Computer Studies) of Ganpat University.",
     "location": {
       "address": "48 Snehkunj Society, T.B. Road",
       "postalCode": "384002",
@@ -229,7 +229,7 @@
       "roles": [
         "Mobile Application Developer"
       ],
-      "entity": "Health Domain",
+      "entity": "Health & Fitness Domain",
       "type": "application"
     },
     {
@@ -248,6 +248,21 @@
         "Lead Mobile Application Developer"
       ],
       "entity": "Finance Domain",
+      "type": "application"
+    },
+    {
+      "name": "Biped",
+      "description": "Biped is a smart and discrete harness, worn on the shoulders, with wide-angle cameras working like an autonomous driving car, for pedestrians. It transforms visual information into sounds.",
+      "keywords": [
+        "Mobile App",
+        "React native",
+        "Redux",
+        "Bluetooth classic"
+      ],
+      "roles": [
+        "Mobile Application Developer"
+      ],
+      "entity": "Health & Fitness Domain",
       "type": "application"
     }
   ],
