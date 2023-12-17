@@ -264,6 +264,22 @@
       ],
       "entity": "Health & Fitness Domain",
       "type": "application"
+    },
+    {
+      "name": "iLocalBox Admin Portal",
+      "description": "iLocal Box's smart inventory control kiosks put your products within reach of the customer. Applications such as retail pharmacy, local Rx pick-up, and hospital out-patient are now made Local.",
+      "keywords": [
+        "Web App",
+        "React js",
+        "Redux",
+        "Material ui",
+        "Axios"
+      ],
+      "roles": [
+        "Intern", "Junior Software Engineer"
+      ],
+      "entity": "Health & Fitness Domain",
+      "type": "web"
     }
   ],
   "meta": {
