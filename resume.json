@@ -103,20 +103,20 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Mobile Applications Development",
       "level": "Master",
+      "keywords": [
+        "React Native"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
       "keywords": [
         "Node.js",
         "React js",
         "JavaScript",
         "TypeScript"
-      ]
-    },
-    {
-      "name": "Mobile Applications Development",
-      "level": "Master",
-      "keywords": [
-        "React Native"
       ]
     },
     {
