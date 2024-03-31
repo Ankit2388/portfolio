@@ -5,7 +5,7 @@
     "label": "React & React Native Dveloper",
     "email": "ankitnprajapati625@gmail.com",
     "phone": "+91 96249 64204",
-    "url": "https://devang-prajapati.github.io/resume/",
+    "url": "https://ankit2388.github.io/portfolio/",
     "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in React Native, React js. Strong engineering professional with a Master of Computer Applications - MCA focused in Study from  AMPICS (Achaya Motibhai Patel Intitute Of Computer Studies) of Ganpat University.",
     "location": {
       "address": "48 Snehkunj Society, T.B. Road",
@@ -242,6 +242,6 @@
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
     "lastModified": "2017-12-24T15:53:00",
-    "theme": "jsonresume-theme-fullmoon"
+    "theme": "elegant"
   }
 }
