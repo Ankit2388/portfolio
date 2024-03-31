@@ -149,8 +149,7 @@
       "fluency": "Native speaker"
     }
   ],
-  "projects": [
-    
+  "projects": [ 
     {
       "name": "Arcade Live",
       "description": "Arcade Live is a game mobile and web application(IOS/Android/WebApp) played online on real Arcade Game machines controlled remotely through video streaming via mobile and web apps. Users can buy credits, and choose an Arcade Game machine to start playing. Each machine required different amount of credits to play the game. User can choose from between two option to play games for as a reward: Play for Tickets & Play for Games.",
