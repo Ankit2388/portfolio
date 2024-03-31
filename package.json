@@ -10,12 +10,21 @@
     "resume",
     "cv"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Ankit Prajapati",  
   "devDependencies": {
     "resume-cli": "^3.0.7"
   },
   "dependencies": {
     "jsonresume-theme-fullmoon": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit2388/portfolio.git"
+  },
+  
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit2388/portfolio/issues"
+  },
+  "homepage": "https://github.com/Ankit2388/portfolio#readme"
 }
