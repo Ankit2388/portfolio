@@ -65,7 +65,7 @@
       "summary": "Worked on frontend as well as backend technologies",
       "highlights": [
         "Frontend - React js",
-        "Backend - Express, Nest.js"
+        "Backend - Express js"
       ]
     }
   ],
@@ -138,7 +138,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": ""
+      "fluency": "Limited working proficiency"
     },
     {
       "language": "Hindi",
@@ -150,50 +150,7 @@
     }
   ],
   "projects": [
-    {
-      "name": "Confidential",
-      "description": "A Digital collection library ( similar to New York Public Library's collections ) with a large amount of books. It follows IIIF - International Image Interoperability Framework for API standards ( image API, Annotation API, manifest etc.) ",
-      "highlights": [
-        "My first role in the project was backend the developer then later i've started working on frontend ( angular and react both ), currently i'm leading the project team.",
-        "On the backend, I've worked on serverless, microservices architecture.",
-        "On the frontend, I've created microfrontends with NX to render one frontend into another.",
-        "Worked on some of the AWS services like EC2, lambda ( with layers ), SQS, SES, Batch etc.",
-        "Setup cantaloupe image server to render JPEG2000 images with Grok and kakadu image compression tools",
-        "Deployed Apps with the help of serverless, claudia and EC2 with docker",
-        "Created Restful search & filter APIs with the help of node.js ( express ) and elasticsearch as searchDB.",
-        "Worked on OCR with tesseract to fetch text from book content for search purpose.",
-        "Created custom CMS - Rendered dynamic components with angular and NX.",
-        "Customised IIIF Manifest Editor - Digital Bodleian & IIIF Manifest Viewer - Mirador."
-      ],
-      "keywords": [
-        "Web app",
-        "JavaScript",
-        "TypeScript",
-        "IIIF Standards",
-        "NX",
-        "Angular",
-        "Node.js",
-        "React",
-        "Mirador",
-        "Bodleian",
-        "Docker",
-        "Jenkins",
-        "Tesseract",
-        "Elasticsearch",
-        "MongoDB",
-        "AWS",
-        "D3.js",
-        "Leaflet with Open Street Map"
-      ],
-      "startDate": "2019-03-15",
-      "roles": [
-        "Team Lead",
-        "Designer",
-        "Developer"
-      ],
-      "entity": "Educational Domain",
-      "type": "application"
-    },
+    
     {
       "name": "Arcade Live",
       "description": "Arcade Live is a game mobile and web application(IOS/Android/WebApp) played online on real Arcade Game machines controlled remotely through video streaming via mobile and web apps. Users can buy credits, and choose an Arcade Game machine to start playing. Each machine required different amount of credits to play the game. User can choose from between two option to play games for as a reward: Play for Tickets & Play for Games.",
