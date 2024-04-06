@@ -21,18 +21,18 @@ jobs:
       - uses: Ankit2388/action-jsonresume-export@v1
         name: Export resume as HTML
         with:
-          theme: jsonresume-theme-fullmoon
+          theme: elegant
           resume_filepath: resume.json
           # modifies the index.html in-place
-          output_filepath: build/resume.html
+          output_filepath: docs/resume.html
       - name: Commit published HTML
         id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          if [ -n "$(git status --porcelain build/resume.html)" ]; then
-            git add build/resume.html
-            git commit -m "[ci skip] chore(build/resume.html): update resume page"
+          if [ -n "$(git status --porcelain docs/resume.html)" ]; then
+            git add docs/resume.html
+            git commit -m "[ci skip] chore(docs/resume.html): update resume page"
             echo ::set-output name=exit_code::0
           else
             echo ::set-output name=exit_code::1
